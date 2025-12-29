@@ -43,6 +43,6 @@ comparable styles applied.
 [release]: https://github.com/tweag/topiary/releases/latest
 [topiary:book]: https://topiary.tweag.io/book/index.html
 [topiary:playground]: https://topiary.tweag.io/playground
-[topiary:repo]: https://github.org/tweag/topiary
+[topiary:repo]: https://github.com/tweag/topiary
 [topiary:website]: https://topiary.tweag.io
 [tree-sitter]: https://tree-sitter.github.io/tree-sitter
